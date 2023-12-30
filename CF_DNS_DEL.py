@@ -1,5 +1,5 @@
 import requests
-from tqdm import tqdm  # Added import for tqdm
+from tqdm import tqdm
 
 # Function to get a list of all domains
 def get_domain_list(api_key, email):
